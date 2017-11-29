@@ -15,4 +15,18 @@ Project proposals for the Hackathon (Dec 2 2017):
     * Get the median, mean and SD of the correlation in condition 1 and in condition 2.  
     * Plot the distributions of correlations. 
 
-## Project 2: 
+## Project 2: Train an SVM to decode stimulus type from neural activity.  
+  * Language: Python 3. 
+  * Data: My own. 
+  1. Generate labels of the stimulus type for each traces. 
+  2. Split the available traces into a training set, a crossval set, and a test set. 
+  3. Train an SVM sklearn's SVM package. 
+  4. Test on the CV set.  
+  5. Once satisfied that everything is working, try the test set.  
+  6. Visualize the results.  
+  
+  
+## Project 3: Implement a random forest and use it as part of an ongoing DS competition.  
+  * Language: Matlab. 
+  * Data: From an open DS competition.  
+  
