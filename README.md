@@ -26,7 +26,6 @@ Project proposals for the Hackathon (Dec 2 2017):
   6. Visualize the results.  
   
   
-## Project 3: Implement a random forest and use it as part of an ongoing DS competition.  
-  * Language: Matlab. 
-  * Data: From an open DS competition.  
+## Future Project Idea: Implement a random forest and try using it to categorize my neural recordings by stimulus type.  
+ 
   
